@@ -1,2 +1,2 @@
 # note-sdk
-Privacy tools for Node.js by Safe.
+Privacy tool SDK for Node.js by Safe.
